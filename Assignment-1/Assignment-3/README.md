@@ -2,7 +2,7 @@
 
 `YouTube Recorded Link`: https://www.youtube.com/watch?v=KHemT4nsBiY&t=1s
 
-`Content in the Video`:
+`Recording covers following topics`:
 
 1. What is an End to End ML project?
 2. About JADBio
