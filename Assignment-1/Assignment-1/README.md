@@ -3,7 +3,7 @@
 `YouTube Recorded Link`: https://www.youtube.com/watch?v=S40wvYbRPG0
 
 
-`Video is all about`:
+`Recording covers following topics`:
 
 1. How to install Github Copilot in VS code?
 2. What/Why Github Copilot?
