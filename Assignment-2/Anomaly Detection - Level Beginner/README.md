@@ -1,3 +1,2 @@
-# FA22-255-Data-Mining
 
-This repository contains assignments work of FA22-255-Data-Mining course.
+`https://colab.research.google.com/drive/1m7ZLcpFR_7ZYIgDAe8CR1KC0UJ0Y_HKp?usp=sharing`
